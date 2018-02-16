@@ -1,0 +1,90 @@
+.general {
+  margin: 0;
+  font-family: Times, sans-serif;
+}
+
+.general h1 {
+  margin: 0%;
+  text-align: left;
+  word-spacing: -5px;
+  color: white;
+  text-align: right;
+  font-size: 200px;
+  text-shadow: Red 4px 5px;
+}
+
+.title-background {
+  background-color: white;
+}
+
+.general h4 {
+  text-align: right;
+  font-size: 15px;
+  color: Red;
+}
+
+.general h3 {
+  text-align: left;
+  font-size: 40px;
+  color: white;
+  text-shadow: red 1px 2px;
+  padding-left: 10px;
+}
+
+#syria2 {
+  float: right;
+  margin: 0;
+  padding-left: 25px;
+  padding-bottom: 5px;
+}
+
+.general p {
+  color: white;
+  text-align: justify;
+  margin: 2%;
+  padding-right: 20%;
+  text-shadow: Red 1px 2px;
+  padding-left: 30%;
+}
+
+#survivors2 {
+  float: right;
+  margin: 0;
+  padding-left: 25px;
+  padding-bottom: 5px;
+}
+
+#injuries2 {
+  float: left;
+  margin: 0;
+  padding-right: 25px;
+  padding-bottom: 5px;
+  padding-left: 25px;
+}
+
+#quote2 {
+  text-align: left;
+  padding-right: 20%;
+  padding-left: 2%;
+}
+
+#quote3 {
+  font-size: 100px;
+  text-align: left;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  padding-left: 2%;
+}
+
+#quote5,
+#quote6 {
+  text-align: left;
+}
+
+#quote6 {
+  font-size: 100px;
+}
+
+#quote4 {
+  text-align: left;
+}
